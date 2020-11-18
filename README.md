@@ -1,4 +1,4 @@
-### Hi there 👋
+### SAlut tout le monde 👋
 
 [![Nicolas's github stats](https://github-readme-stats.vercel.app/api?username=cauxNicolas)](https://github.com/cauxNicolas/github-readme-stats)
 
