@@ -2,6 +2,28 @@
 <!--
 [![Nicolas's github stats](https://github-readme-stats.vercel.app/api?username=cauxNicolas)](https://github.com/cauxNicolas/github-readme-stats)
 -->
+<h3 align="center" background="red">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="">Nicolas Caux</a></b>
+        </samp>
+</h3>
+
+
+<p align="center"> 
+  <samp>
+    I am a Front-End Web application developer from <b>France <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/></b>
+    <br>
+  </samp>
+</p>
+
+<p align="center">
+ <a href="https://nicaux.com" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="nicolas" />
+ </a>
+ <a href="https://www.linkedin.com/in/nicolas-caux-ui-ux-webdesigner-developper-front-end-next-js-react-js-mern/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nicolas"/>
+ </a>
+</p>
 ## Working environment
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
