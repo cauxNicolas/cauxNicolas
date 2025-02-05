@@ -2,21 +2,21 @@
 <!--
 [![Nicolas's github stats](https://github-readme-stats.vercel.app/api?username=cauxNicolas)](https://github.com/cauxNicolas/github-readme-stats)
 -->
-<h3 align="center" background="red">
+<h3 background="red">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="">Nicolas Caux</a></b>
         </samp>
 </h3>
 
 
-<p align="center"> 
+<p> 
   <samp>
     I am a Front-End Web application developer from <b>France <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/></b>
     <br>
   </samp>
 </p>
 
-<div align="center">
+<div>
  <a href="https://nicaux.com" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="nicolas" />
  </a>
