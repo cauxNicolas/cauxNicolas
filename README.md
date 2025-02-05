@@ -59,7 +59,6 @@
     <a href="https://github.com/cauxNicolas">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cauxNicolas&theme=radical" alt="nicaux GitHub Contribution"/>
   </a>
-</p>
 
 
 <a> 
