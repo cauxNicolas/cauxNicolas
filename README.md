@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
- <a href="https://nicaux.com" target="blank">
+ <a href="https://nicaux.com" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="nicolas" />
  </a>
  <a href="https://www.linkedin.com/in/nicolas-caux-ui-ux-webdesigner-developper-front-end-next-js-react-js-mern/" target="_blank">
