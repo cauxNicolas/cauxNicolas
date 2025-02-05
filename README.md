@@ -60,7 +60,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=cauxNicolas&theme=radical&border=7F3FBF&background=0D1117" alt="nicaux GitHub streak"/>
   </a>
     <a href="https://github.com/cauxNicolas">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R0BIN0&theme=radical" alt="nicaux GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cauxNicolas&theme=radical" alt="nicaux GitHub Contribution"/>
   </a>
 </p>
 
