@@ -76,4 +76,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cauxNicolas&theme=material_palenight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cauxNicolas&theme=material_palenight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cauxNicolas&theme=material_palenight&utcOffset=8)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cauxNicolas&theme=material_palenight)
