@@ -72,3 +72,8 @@
   <br/>
 </a>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cauxNicolas&theme=material_palenight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cauxNicolas&theme=material_palenight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cauxNicolas&theme=material_palenight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cauxNicolas&theme=material_palenight&utcOffset=8)
+
