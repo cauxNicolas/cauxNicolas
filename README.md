@@ -24,7 +24,7 @@
 <br/>
 
 ## Working environment
-
+<span>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
@@ -51,8 +51,9 @@
   <img alt="Microsoft Teams" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
   <img alt="Azure Devops" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
   <img alt="Sonar Cloud" src="https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white" />-->
-
+</span>
 <br/>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cauxNicolas&theme=material_palenight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cauxNicolas&theme=material_palenight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cauxNicolas&theme=material_palenight)
