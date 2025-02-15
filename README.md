@@ -24,7 +24,7 @@
 <br/>
 
 ## Working environment
-<p>
+
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
@@ -51,27 +51,8 @@
   <img alt="Microsoft Teams" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
   <img alt="Azure Devops" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
   <img alt="Sonar Cloud" src="https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white" />-->
-</p>
+
 <br/>
-<!--
-[![Nicolas's github stats](https://github-readme-stats.vercel.app/api?username=cauxNicolas)](https://github.com/cauxNicolas/github-readme-stats)
--->
-<p align="left">
-  <!--<a href="https://github.com/cauxNicolas">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cauxNicolas&theme=radical&border=7F3FBF&background=0D1117" alt="nicaux GitHub streak"/>
-  </a>-->
-    <a href="https://github.com/cauxNicolas">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cauxNicolas&theme=radical" alt="caux nicolas GitHub Contribution"/>
-  </a>
-</p>
-
-
-<a> 
-    <a href="https://github.com/cauxNicolas"><img alt="cau nicolas Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=cauxNicolas&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/cauxNicolas"><img alt="caux nicolas Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=cauxNicolas&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cauxNicolas&theme=material_palenight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cauxNicolas&theme=material_palenight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cauxNicolas&theme=material_palenight)
