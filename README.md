@@ -39,8 +39,7 @@
           <img alt="React-Query" src="https://img.shields.io/badge/React_Query-F24E1E?style=for-the-badge&logo=react-query&logoColor=white" />
           <img alt="Next Js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
           <img alt="Svelte" src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" />
-          <img alt="Svelte Kit" src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" />
-           <img alt="Json web token" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" />
+          <img alt="Json web token" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" />
   </span>
   
   ### Back
